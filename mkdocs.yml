@@ -1,0 +1,8 @@
+site_name: PermissionTesting
+site_description: Testing permission policies
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
